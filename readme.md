@@ -1,8 +1,8 @@
-# Clone OG Animal Company (Xera Backend)
+# Clone OG Animal Company (SolarHP Backend)
 
 CREDITS:
 
-Xera - Developer  
+SolarHP - Developer  
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
 - Go to the /gamedata folder in this repo and download the wanted game data (only a few are available)
@@ -15,7 +15,7 @@ Xera - Developer
 - Ctrl+F:
   https://animalcompany.us-east1.nakamacloud.io
 - Replace with:
-  https://ac-xerabackend.pythonanywhere.com or your hosted backend url if self hosting
+  https://semcompany.pythonanywhere.com or your hosted backend url if self hosting
 
 - Or go to /native-lib patch native-lib.cpp for your url and recompile (THIS IS THE ONLY WAY TO DO IT ON NEWER VERSIONS PAST LAVA)
 
